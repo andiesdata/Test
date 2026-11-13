@@ -1,0 +1,7 @@
+campaign_id,Campaign Name,Targeting Type,Daily Budget,State,Portfolio name
+101,SP | Auto | Discovery,AUTO,120.0,enabled,TerraBloom Cleanser
+102,SP | Broad | Ingredient & Values,BROAD,90.0,enabled,TerraBloom Cleanser
+103,SP | Phrase | Core,PHRASE,110.0,enabled,TerraBloom Cleanser
+104,SP | Exact | Core Performers,EXACT,200.0,enabled,TerraBloom Cleanser
+105,SP | Exact | Brand Defense,EXACT,20.0,enabled,TerraBloom Cleanser
+106,SP | Product | Competitor ASINs,PRODUCT,40.0,enabled,TerraBloom Cleanser

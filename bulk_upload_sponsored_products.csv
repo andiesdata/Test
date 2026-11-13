@@ -1,0 +1,429 @@
+Product,Entity,Operation,Campaign Name,Ad Group Name,Keyword Text,Match Type,Product Targeting Expression,Bid,State,Reason
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,ayurvedic tea tree face cleanser for acne prone skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,best face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,clean beauty face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,clean tea tree face wash for dark spots,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,daily chamomile cleanser travel size,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,daily face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,dermatologist recommended face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,face cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,face wash for combination skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,face wash for oily skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,face wash for sensitive skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,foaming face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,foaming facial cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,gel cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,gentle face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,gentle foaming cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,hydrating aloe face cleanser sulfate free,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,hydrating facial cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,plant based green tea face wash for dry skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,skin care,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric face wash for combination skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric face wash for women,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,vegan brightening face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0Z77R8TXV""",,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,best face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,cleanser for sensitive skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,dermatologist recommended face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,face cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,face wash for dry skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,face wash for oily skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,foaming face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,gel cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,gentle foaming cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,korean face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,skin care,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric face wash 2 pack,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,ayurvedic salicylic acid facial wash sulfate free,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,best face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,cleanser for sensitive skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,daily face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,daily vitamin c face soap 2 pack,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,dermatologist recommended face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,face wash for dry skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,face wash for oily skin,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,face wash for women,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,facial cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,gel cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,gentle foaming cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,hydrating facial cleanser,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,korean face wash,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,skin care,negativeExact,,,enabled,Q1 WASTE_UNPROFITABLE
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera after sun,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera capsules,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera conditioner,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera drink,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera gel,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera gel for hair,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera gel for sunburn,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera leaves,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera plant,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera shampoo,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera sunscreen,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera supplement,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,ayurvedic honey facial wash for redness,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,botanical chamomile cleanser for redness,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,botanical green tea facial wash for sensitive skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,botanical honey face cleanser unscented,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,brightening aloe vera face wash sulfate free,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,brightening facial wash sulfate free,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,brightening honey facial wash unscented,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,brightening turmeric face soap pump bottle,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,chamomile face wash pump bottle,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,conditioner aloe vera,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,cruelty free charcoal cleansing foam for sensitive skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,curcumin capsules,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,dog shampoo natural,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,face wash for men acne,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,face wash free sample,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,gentle salicylic acid facial wash 2 pack,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,ginger supplement,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,herbal charcoal face cleanser travel size,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,hydrating niacinamide face cleanser,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,low ph niacinamide face cleanser for teens,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,mens face wash oily skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,moisturizer aloe vera,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,natural charcoal face cleanser unscented,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,niacinamide facial wash for sensitive skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric body wash,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric capsules,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric curcumin with black pepper,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric face mask,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric for dogs,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric gummies,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric pills,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric powder,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric powder organic,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric supplement,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric tea,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,plant based rose facial wash paraben free,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,plant based tea tree gel cleanser for dry skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,prescription acne cleanser,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,pure aloe vera for dogs,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,pure aloe vera gel for hair,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,pure aloe vera gel for sunburn,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,pure aloe vera gel organic pure,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,pure aloe vera juice,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,pure aloe vera leaves,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,pure aloe vera plant,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,pure aloe vera soap bar,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,shampoo aloe vera,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric and ginger capsules,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric body wash,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric capsules,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric curcumin with black pepper,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric diy face mask,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric for inflammation,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric gummies,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric latte mix,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric lotion,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric pills,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric powder,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric powder organic,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric recipe,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric root,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric serum,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric shampoo,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric soap bar,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric supplement,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric supplement 1500mg,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0EJJEA7SO""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B005SX0YE9""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B019LEGJX6""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B01M2R2FOJ""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B02W8EMEDQ""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B057P1L0SB""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B061GLGJNE""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B06MZZLHYD""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0A9DSMXZ4""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0BLX1DOAQ""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0CV61X2G4""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0EIVFZOZY""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0EKO45OLT""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0FFHO7W4I""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0GRH6JFU5""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0I471EDH1""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0J9G6Y73L""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0J9QT1XGK""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0MD1J9O4B""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0OQGSYNJS""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0P270O1LJ""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0QCRW8SMU""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0QEXLHG9D""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0QWOEH481""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0R38JY8A2""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0UQM351B4""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0URQRROQU""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0Y03MPLSE""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0Z7TDREQC""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Auto | Discovery,Auto - All,,,"asin=""B0ZZDZ91QL""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera after sun,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera capsules,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera conditioner,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera drink,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera for dogs,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera gel,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera gel for hair,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera gel for sunburn,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera leaves,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera plant,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera shampoo,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera sunscreen,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,botanical salicylic acid facial cleanser for mature skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,clean aloe vera facial cleanser for dry skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,conditioner aloe vera,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,curcumin capsules,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,daily vitamin c cleanser for mature skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,dog shampoo natural,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,gentle cleanser for women,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,gentle tea tree cleanser for oily skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,honey facial cleanser pump bottle,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,low ph charcoal face soap for dry skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,mens face wash oily skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,mild chamomile face soap for teens,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,moisturizer aloe vera,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic salicylic acid gel cleanser for dark spots,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric body wash,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric capsules,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric curcumin with black pepper,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric extract,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric face mask,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric for dogs,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric gummies,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric lotion,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric pills,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric powder,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric powder organic,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric supplement,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,prescription acne cleanser,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera for dogs,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera gel for sunburn,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera gel organic pure,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera juice,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera leaves,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera plant,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera soap bar,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,salicylic acid face cleanser for dark spots,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,shampoo aloe vera,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric and ginger capsules,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric body wash,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric capsules,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric curcumin with black pepper,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric diy face mask,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric face mask,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric for dogs,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric lotion,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric pills,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric powder,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric recipe,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric serum,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric shampoo,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric soap bar,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric supplement,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric supplement 1500mg,negativePhrase,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,clean rose facial wash for women,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,cruelty free aloe vera facial wash for dark spots,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,gentle green tea cleansing foam sulfate free,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,natural green tea facial cleanser for teens,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,plant based chamomile face cleanser unscented,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,vegan chamomile face cleanser for oily skin,negativeExact,,,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B0CLZ9SOPY""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B0CV61X2G4""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B0FFHO7W4I""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B0J9G6Y73L""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B0OQGSYNJS""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B0QWOEH481""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B0UQM351B4""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B0Z7TDREQC""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B0EJJEA7SO""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B005KHTTO2""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B061GLGJNE""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Negative Product Targeting,Create,SP | Product | Competitor ASINs,Product - Competitors,,,"asin=""B0BLX1DOAQ""",,enabled,Q1 WASTE_ZERO_CONVERSION
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,aloe face wash alcohol free,exact,,1.22,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,aloe vera cleanser for oily skin,exact,,1.37,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,aloe vera facial cleanser sensitive skin,exact,,1.29,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,aloe vera foaming cleanser,exact,,1.39,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,cruelty free vegan cleanser,exact,,1.18,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,gentle turmeric face wash,exact,,1.47,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,herbal turmeric face wash,exact,,1.09,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,natural foaming face wash,exact,,1.18,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,natural turmeric cleanser,exact,,1.33,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric and honey face wash,exact,,1.44,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric brightening cleanser,exact,,1.35,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric cleanser for women,exact,,1.13,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric face wash for glowing skin,exact,,1.27,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric face wash for oily skin,exact,,1.31,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric face wash for teens,exact,,1.40,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric foaming cleanser,exact,,1.13,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric vitamin c face wash,exact,,1.09,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,vegan aloe vera cleanser,exact,,1.12,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,vegan face wash for sensitive skin,exact,,1.27,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,vegan facial cleanser for dry skin,exact,,1.11,enabled,Q2 TIER 1 - Scale aggressively
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,alcohol free facial cleanser for sensitive skin,exact,,1.13,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,botanical turmeric cleanser,exact,,1.03,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,clean vegan face wash,exact,,1.39,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,cruelty free face wash for women,exact,,1.04,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,fragrance free turmeric cleanser,exact,,1.22,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,herbal face cleanser,exact,,1.15,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,natural aloe vera face wash,exact,,1.24,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,natural face wash without alcohol,exact,,1.30,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,organic turmeric face cleanser,exact,,1.14,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric face cleanser for dry skin,exact,,1.29,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric gel cleanser,exact,,1.35,enabled,"Q2 TIER 2 - Promote, standard bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,alcohol free aloe face wash for dark spots,exact,,1.31,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,alcohol free aloe gel cleanser for sensitive skin,exact,,1.36,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,alcohol free green tea cleansing foam 2 pack,exact,,1.31,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,aloe vera facial cleanser for dry skin,exact,,1.27,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,ayurvedic aloe vera face soap pump bottle,exact,,1.09,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,ayurvedic aloe vera facial cleanser for oily skin,exact,,0.98,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,ayurvedic gel cleanser pump bottle,exact,,0.95,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,botanical honey gel cleanser unscented,exact,,1.40,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,brightening turmeric cleansing foam 2 pack,exact,,1.30,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,cruelty free aloe vera cleanser for redness,exact,,1.17,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,cruelty free niacinamide facial wash sulfate free,exact,,0.93,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,daily foaming face wash for oily skin,exact,,1.19,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,daily rose cleanser for dark spots,exact,,1.30,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,daily tea tree gel cleanser for teens,exact,,1.03,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,fragrance free aloe vera face cleanser for combination skin,exact,,1.05,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,fragrance free chamomile facial cleanser travel size,exact,,1.01,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,gentle chamomile face wash for oily skin,exact,,0.98,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,herbal aloe vera facial cleanser for mature skin,exact,,1.36,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,hydrating honey facial cleanser for teens,exact,,0.99,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,korean chamomile face soap for teens,exact,,0.95,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,korean rose cleanser pump bottle,exact,,1.17,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,low ph aloe face soap,exact,,1.06,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,low ph aloe gel cleanser for dry skin,exact,,1.10,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,low ph aloe vera foaming face wash for sensitive skin,exact,,1.01,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,mild chamomile facial cleanser for dry skin,exact,,1.06,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,mild turmeric gel cleanser paraben free,exact,,0.95,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,non drying cleansing foam for oily skin,exact,,1.20,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,non drying vitamin c face wash for women,exact,,1.40,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,plant based aloe cleansing foam for mature skin,exact,,1.24,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,plant based chamomile cleanser for women,exact,,1.24,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,plant based honey cleansing foam 2 pack,exact,,0.88,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,rose cleanser pump bottle,exact,,1.20,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,rose face cleanser paraben free,exact,,0.85,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,soothing chamomile facial wash pump bottle,exact,,1.16,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,soothing niacinamide cleanser unscented,exact,,1.23,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,soothing rose cleanser for dark spots,exact,,1.10,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,soothing salicylic acid face cleanser for combination skin,exact,,1.02,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,turmeric facial cleanser vegan,exact,,1.06,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Keyword,Create,SP | Exact | Harvest,Exact - Harvest,vitamin c cleanser for dark spots,exact,,0.96,enabled,"Q2 TIER 3 - Promote, test bid"
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,alcohol free facial cleanser for sensitive skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe face wash alcohol free,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera cleanser for oily skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera facial cleanser sensitive skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,aloe vera foaming cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,ayurvedic gel cleanser pump bottle,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,botanical turmeric cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,clean vegan face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,cruelty free face wash for women,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,cruelty free vegan cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,daily tea tree gel cleanser for teens,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,fragrance free chamomile facial cleanser travel size,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,fragrance free turmeric cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,gentle chamomile face wash for oily skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,gentle turmeric face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,herbal aloe vera facial cleanser for mature skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,herbal face cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,herbal turmeric face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,hydrating honey facial cleanser for teens,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,low ph aloe face soap,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,low ph aloe gel cleanser for dry skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,low ph aloe vera foaming face wash for sensitive skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,natural aloe vera face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,natural face wash without alcohol,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,natural foaming face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,natural turmeric cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,non drying cleansing foam for oily skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,non drying vitamin c face wash for women,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,organic turmeric face cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,plant based chamomile cleanser for women,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,plant based honey cleansing foam 2 pack,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,rose cleanser pump bottle,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,rose face cleanser paraben free,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,soothing chamomile facial wash pump bottle,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,soothing salicylic acid face cleanser for combination skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric and honey face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric brightening cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric cleanser for women,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric face cleanser for dry skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric face wash for glowing skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric face wash for oily skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric face wash for teens,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric facial cleanser vegan,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric foaming cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric gel cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,turmeric vitamin c face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,vegan aloe vera cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,vegan face wash for sensitive skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,vegan facial cleanser for dry skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Auto | Discovery,Auto - All,vitamin c cleanser for dark spots,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,alcohol free aloe gel cleanser for sensitive skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,alcohol free green tea cleansing foam 2 pack,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe face wash alcohol free,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera cleanser for oily skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera facial cleanser for dry skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera facial cleanser sensitive skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera foaming cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,ayurvedic aloe vera face soap pump bottle,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,ayurvedic aloe vera facial cleanser for oily skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,botanical honey gel cleanser unscented,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,botanical turmeric cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,brightening turmeric cleansing foam 2 pack,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,cruelty free aloe vera cleanser for redness,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,daily rose cleanser for dark spots,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,fragrance free turmeric cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,gentle turmeric face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,herbal face cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,herbal turmeric face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,korean rose cleanser pump bottle,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,mild chamomile facial cleanser for dry skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,mild turmeric gel cleanser paraben free,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,natural aloe vera face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,natural turmeric cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric face cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,soothing niacinamide cleanser unscented,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,soothing rose cleanser for dark spots,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric and honey face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric brightening cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric cleanser for women,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric face cleanser for dry skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric face wash for glowing skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric face wash for oily skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric face wash for teens,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric facial cleanser vegan,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric foaming cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric gel cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric vitamin c face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Broad | Ingredient & Values,Broad - Ingredient & Values,vegan aloe vera cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,alcohol free aloe face wash for dark spots,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,aloe vera cleanser for oily skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,aloe vera foaming cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,clean vegan face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,cruelty free niacinamide facial wash sulfate free,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,cruelty free vegan cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,daily foaming face wash for oily skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,fragrance free aloe vera face cleanser for combination skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,fragrance free turmeric cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,gentle turmeric face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,herbal face cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,herbal turmeric face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,korean chamomile face soap for teens,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,natural aloe vera face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,natural face wash without alcohol,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,natural turmeric cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,organic turmeric face cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,plant based aloe cleansing foam for mature skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,turmeric and honey face wash,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,turmeric brightening cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,turmeric cleanser for women,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,turmeric face wash for glowing skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,turmeric face wash for oily skin,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,turmeric face wash for teens,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,turmeric foaming cleanser,negativeExact,,,enabled,Q2 isolation
+Sponsored Products,Negative Keyword,Create,SP | Phrase | Core,Phrase - Core,turmeric gel cleanser,negativeExact,,,enabled,Q2 isolation

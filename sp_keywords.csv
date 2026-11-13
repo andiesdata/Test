@@ -1,0 +1,35 @@
+keyword_id,campaign_id,Ad Group Name,Keyword Text,Match Type,Bid,State
+1,102,Broad - Ingredient & Values,natural face wash,BROAD,1.1,enabled
+2,103,Phrase - Core,natural face wash,PHRASE,1.1,enabled
+3,102,Broad - Ingredient & Values,herbal face cleanser,BROAD,0.95,enabled
+4,103,Phrase - Core,herbal face cleanser,PHRASE,0.95,enabled
+5,103,Phrase - Core,gentle face wash,PHRASE,1.25,enabled
+6,103,Phrase - Core,foaming facial cleanser,PHRASE,1.15,enabled
+7,104,Exact - Core,turmeric face wash,EXACT,1.3,enabled
+8,103,Phrase - Core,turmeric face wash,PHRASE,1.3,enabled
+9,104,Exact - Core,turmeric face cleanser,EXACT,1.3,enabled
+10,103,Phrase - Core,turmeric face cleanser,PHRASE,1.3,enabled
+11,104,Exact - Core,aloe vera face wash,EXACT,1.2,enabled
+12,103,Phrase - Core,aloe vera face wash,PHRASE,1.2,enabled
+13,104,Exact - Core,turmeric and aloe vera cleanser,EXACT,1.1,enabled
+14,103,Phrase - Core,green tea face wash,PHRASE,0.9,enabled
+15,104,Exact - Core,vegan face wash,EXACT,1.2,enabled
+16,103,Phrase - Core,vegan face wash,PHRASE,1.2,enabled
+17,104,Exact - Core,cruelty free face cleanser,EXACT,1.15,enabled
+18,103,Phrase - Core,cruelty free face cleanser,PHRASE,1.15,enabled
+19,104,Exact - Core,alcohol free face wash,EXACT,1.0,enabled
+20,103,Phrase - Core,plant based facial cleanser,PHRASE,0.95,enabled
+21,102,Broad - Ingredient & Values,clean beauty face wash,BROAD,0.85,enabled
+22,103,Phrase - Core,brightening face wash,PHRASE,1.1,enabled
+23,104,Exact - Core,turmeric face wash for dark spots,EXACT,1.25,enabled
+24,102,Broad - Ingredient & Values,face wash for glowing skin,BROAD,0.9,enabled
+25,103,Phrase - Core,face wash for uneven skin tone,PHRASE,0.95,enabled
+26,103,Phrase - Core,face wash for sensitive skin,PHRASE,1.35,enabled
+27,104,Exact - Core,aloe vera face wash for dry skin,EXACT,1.05,enabled
+28,103,Phrase - Core,gentle cleanser for oily skin,PHRASE,1.0,enabled
+29,102,Broad - Ingredient & Values,face wash for combination skin,BROAD,0.9,enabled
+30,104,Exact - Core,vegan turmeric face cleanser,EXACT,0.95,enabled
+31,104,Exact - Core,natural turmeric face wash for women,EXACT,0.9,enabled
+32,104,Exact - Core,herbal face wash without alcohol,EXACT,0.85,enabled
+33,104,Exact - Core,cruelty free turmeric cleanser sensitive skin,EXACT,0.8,enabled
+34,105,Brand - Exact,terrabloom,EXACT,0.6,enabled

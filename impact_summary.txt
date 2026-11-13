@@ -1,0 +1,103 @@
+== Baseline (whole account) ==
+ impressions | clicks |  spend   | orders |   sales   | ctr_pct | cpc  | cvr_pct | acos_pct | roas |  aov  | unique_search_terms 
+-------------+--------+----------+--------+-----------+---------+------+---------+----------+------+-------+---------------------
+     7408319 |  47393 | 54882.68 |   5232 | 145561.71 |    0.64 | 1.16 |    11.0 |     37.7 | 2.65 | 27.82 |                4027
+(1 row)
+
+== Performance by campaign type ==
+ targeting_strategy |  spend   |  sales   | cvr_pct | acos_pct 
+--------------------+----------+----------+---------+----------
+ EXACT              | 12014.88 | 55064.55 |    17.2 |     21.8
+ AUTO               | 18594.12 | 42289.83 |     9.4 |     44.0
+ PHRASE             | 12489.97 | 27226.11 |     9.9 |     45.9
+ BROAD              | 10976.12 | 19859.19 |     7.9 |     55.3
+ PRODUCT            |   807.59 |  1122.03 |     4.5 |     72.0
+(5 rows)
+
+== Wasted spend by status and action (Query 1) ==
+     waste_status      |   recommended_action    | rows | unique_terms |  spend   |  sales  
+-----------------------+-------------------------+------+--------------+----------+---------
+ WASTE_UNPROFITABLE    | NEGATIVE EXACT          |   53 |           32 |  6659.04 | 5880.06
+ WASTE_UNPROFITABLE    | NEGATIVE PRODUCT TARGET |    1 |            1 |    21.79 |   24.99
+ WASTE_UNPROFITABLE    | PAUSE KEYWORD / CUT BID |    3 |            3 |  2079.28 | 2396.49
+ WASTE_UNPROFITABLE    |                         |   57 |           34 |  8760.11 | 8301.54
+ WASTE_ZERO_CONVERSION | NEGATIVE EXACT          |   68 |           53 |  1403.10 |    0.00
+ WASTE_ZERO_CONVERSION | NEGATIVE PHRASE         |   80 |           46 |  1999.51 |    0.00
+ WASTE_ZERO_CONVERSION | NEGATIVE PRODUCT TARGET |   42 |           32 |   737.17 |    0.00
+ WASTE_ZERO_CONVERSION |                         |  190 |          131 |  4139.78 |    0.00
+                       |                         |  247 |          165 | 12899.89 | 8301.54
+(9 rows)
+
+== Pareto: share of wasted spend in the top 20% of flagged rows ==
+ top20pct_share 
+----------------
+           67.8
+(1 row)
+
+== Waste below the click threshold (1-14 clicks, 0 orders): not actionable per term ==
+ terms |  spend  
+-------+---------
+  3199 | 8406.00
+(1 row)
+
+== Harvest list by tier (Query 2) ==
+          harvest_tier          | keywords | clicks |  spend  | orders |  sales   | cvr_pct | acos_pct | roas 
+--------------------------------+----------+--------+---------+--------+----------+---------+----------+------
+ TIER 1 - Scale aggressively    |       20 |   1182 | 1172.87 |    254 |  6994.59 |    21.5 |     16.8 | 5.96
+ TIER 2 - Promote, standard bid |       11 |   1742 | 1805.54 |    240 |  6907.08 |    13.8 |     26.1 | 3.83
+ TIER 3 - Promote, test bid     |       39 |    421 |  471.94 |     95 |  2741.34 |    22.6 |     17.2 | 5.81
+                                |       70 |   3345 | 3450.35 |    589 | 16643.01 |    17.6 |     20.7 | 4.82
+(4 rows)
+
+== Before / after projection ==
+       scenario       | spend | sales  | acos_pct | roas | spend_change_pct | sales_change_pct 
+----------------------+-------+--------+----------+------+------------------+------------------
+ Baseline             | 54883 | 145562 |     37.7 | 2.65 |              0.0 |              0.0
+ After cutting waste  | 41983 | 137260 |     30.6 | 3.27 |            -23.5 |             -5.7
+ Cut waste + reinvest | 47143 | 157172 |     30.0 | 3.33 |            -14.1 |              8.0
+(3 rows)
+
+== Assumed ROAS on reinvested budget ==
+ assumed_roas 
+--------------
+         3.86
+(1 row)
+
+== Wasted spend by intent category (dashboard treemap) ==
+         intent_category          | terms |  spend  | pct_of_waste 
+----------------------------------+-------+---------+--------------
+ Generic head term (unprofitable) |    32 | 8713.43 |         67.5
+ Raw ingredient / DIY             |    18 |  909.49 |          7.1
+ Competitor ASIN                  |    33 |  758.96 |          5.9
+ Supplement / ingestible          |    19 |  746.25 |          5.8
+ Wrong product format             |    12 |  576.58 |          4.5
+ Other long tail                  |    35 |  486.67 |          3.8
+ Haircare                         |     8 |  458.23 |          3.6
+ Wrong audience                   |     6 |  187.04 |          1.4
+ Drug-claim intent                |     2 |   63.24 |          0.5
+(9 rows)
+
+== Wasted spend by source campaign type ==
+ targeting_strategy |  spend  | pct_of_waste 
+--------------------+---------+--------------
+ AUTO               | 5352.86 |         41.5
+ PHRASE             | 3837.10 |         29.7
+ BROAD              | 3525.14 |         27.3
+ PRODUCT            |  184.79 |          1.4
+(4 rows)
+
+== Keyword cluster economics: values-based long tail vs generic head terms ==
+           cluster           | terms | clicks | cpc  | cvr_pct | acos_pct 
+-----------------------------+-------+--------+------+---------+----------
+ 1. Ingredient + value claim |   173 |   2409 | 0.96 |    17.0 |     20.3
+ 2. Ingredient only          |   684 |  14009 | 1.15 |    14.5 |     28.7
+ 3. Generic head term        |    18 |   5565 | 1.60 |     6.1 |     93.8
+ 4. Other                    |  2780 |  19572 | 1.13 |     9.7 |     42.0
+(4 rows)
+
+== Cannibalization: converting search terms served by 3+ campaigns ==
+ terms_in_3plus_campaigns | pct_of_sales 
+--------------------------+--------------
+                       43 |         37.6
+(1 row)
+

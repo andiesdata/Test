@@ -1,0 +1,248 @@
+campaign_name,ad_group_name,search_term,waste_status,recommended_action,clicks,spend,orders,sales,cpc,cvr,acos,pct_of_wasted_spend,cumulative_wasted_spend
+SP | Phrase | Core,Phrase - Core,face wash for sensitive skin,WASTE_UNPROFITABLE,PAUSE KEYWORD / CUT BID,476,775.78,25,747.18,1.63,0.0525,1.0383,6.01,775.78
+SP | Phrase | Core,Phrase - Core,gentle face wash,WASTE_UNPROFITABLE,PAUSE KEYWORD / CUT BID,497,761.47,33,947.10,1.53,0.0664,0.8040,5.90,1537.25
+SP | Phrase | Core,Phrase - Core,gentle cleanser for oily skin,WASTE_UNPROFITABLE,PAUSE KEYWORD / CUT BID,428,542.03,26,702.21,1.27,0.0607,0.7719,4.20,2079.28
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,face wash for dry skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,157,278.12,10,284.88,1.77,0.0637,0.9763,2.16,2357.40
+SP | Auto | Discovery,Auto - All,gentle face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,161,254.15,11,309.87,1.58,0.0683,0.8202,1.97,2611.55
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,face wash for oily skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,145,251.16,11,274.89,1.73,0.0759,0.9137,1.95,2862.71
+SP | Auto | Discovery,Auto - All,face wash for sensitive skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,151,242.70,5,124.95,1.61,0.0331,1.9424,1.88,3105.41
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,korean face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,118,220.06,8,217.41,1.86,0.0678,1.0122,1.71,3325.47
+SP | Auto | Discovery,Auto - All,daily face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,135,219.19,9,242.40,1.62,0.0667,0.9042,1.70,3544.66
+SP | Auto | Discovery,Auto - All,face wash for combination skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,186,213.47,6,149.94,1.15,0.0323,1.4237,1.65,3758.13
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,gel cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,140,210.77,5,142.44,1.51,0.0357,1.4797,1.63,3968.90
+SP | Phrase | Core,Phrase - Core,face wash for dry skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,107,189.10,7,209.91,1.77,0.0654,0.9009,1.47,4158.00
+SP | Auto | Discovery,Auto - All,foaming facial cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,144,186.17,7,192.42,1.29,0.0486,0.9675,1.44,4344.17
+SP | Auto | Discovery,Auto - All,gel cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,125,185.55,3,92.46,1.48,0.0240,2.0068,1.44,4529.72
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,skin care,WASTE_UNPROFITABLE,NEGATIVE EXACT,122,177.10,7,192.42,1.45,0.0574,0.9204,1.37,4706.82
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,gentle foaming cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,107,175.14,4,99.96,1.64,0.0374,1.7521,1.36,4881.96
+SP | Auto | Discovery,Auto - All,face wash for oily skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,99,167.11,8,234.90,1.69,0.0808,0.7114,1.30,5049.07
+SP | Auto | Discovery,Auto - All,clean beauty face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,164,156.22,6,184.92,0.95,0.0366,0.8448,1.21,5205.29
+SP | Phrase | Core,Phrase - Core,daily face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,95,155.53,5,124.95,1.64,0.0526,1.2447,1.21,5360.82
+SP | Auto | Discovery,Auto - All,best face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,88,145.67,3,74.97,1.66,0.0341,1.9430,1.13,5506.49
+SP | Auto | Discovery,Auto - All,gentle foaming cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,87,142.49,3,74.97,1.64,0.0345,1.9006,1.10,5648.98
+SP | Phrase | Core,Phrase - Core,korean face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,72,136.35,5,124.95,1.89,0.0694,1.0912,1.06,5785.33
+SP | Auto | Discovery,Auto - All,dermatologist recommended face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,78,135.17,2,67.47,1.73,0.0256,2.0034,1.05,5920.50
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,94,133.36,2,84.96,1.42,0.0213,1.5697,1.03,6053.86
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,foaming face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,83,132.62,7,174.93,1.60,0.0843,0.7581,1.03,6186.48
+SP | Auto | Discovery,Auto - All,hydrating facial cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,86,131.96,6,184.92,1.53,0.0698,0.7136,1.02,6318.44
+SP | Phrase | Core,Phrase - Core,face wash for oily skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,77,128.03,5,142.44,1.66,0.0649,0.8988,0.99,6446.47
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,best face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,80,127.84,5,142.44,1.60,0.0625,0.8975,0.99,6574.31
+SP | Phrase | Core,Phrase - Core,skin care,WASTE_UNPROFITABLE,NEGATIVE EXACT,89,126.90,2,49.98,1.43,0.0225,2.5390,0.98,6701.21
+SP | Phrase | Core,Phrase - Core,gel cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,82,126.00,1,24.99,1.54,0.0122,5.0420,0.98,6827.21
+SP | Auto | Discovery,Auto - All,face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,86,123.96,5,159.93,1.44,0.0581,0.7751,0.96,6951.17
+SP | Auto | Discovery,Auto - All,foaming face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,74,123.85,5,159.93,1.67,0.0676,0.7744,0.96,7075.02
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,dermatologist recommended face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,70,123.15,1,24.99,1.76,0.0143,4.9280,0.95,7198.17
+SP | Auto | Discovery,Auto - All,skin care,WASTE_UNPROFITABLE,NEGATIVE EXACT,84,120.89,5,124.95,1.44,0.0595,0.9675,0.94,7319.06
+SP | Phrase | Core,Phrase - Core,face wash for women,WASTE_UNPROFITABLE,NEGATIVE EXACT,82,120.70,3,74.97,1.47,0.0366,1.6100,0.94,7439.76
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,face cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,77,118.39,3,92.46,1.54,0.0390,1.2804,0.92,7558.15
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,cleanser for sensitive skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,81,110.95,4,117.45,1.37,0.0494,0.9447,0.86,7669.10
+SP | Phrase | Core,Phrase - Core,gentle foaming cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,66,110.37,2,49.98,1.67,0.0303,2.2083,0.86,7779.47
+SP | Phrase | Core,Phrase - Core,face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,69,100.70,4,99.96,1.46,0.0580,1.0074,0.78,7880.17
+SP | Phrase | Core,Phrase - Core,facial cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,60,100.06,3,74.97,1.67,0.0500,1.3347,0.78,7980.23
+SP | Phrase | Core,Phrase - Core,dermatologist recommended face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,56,96.28,1,24.99,1.72,0.0179,3.8527,0.75,8076.51
+SP | Auto | Discovery,Auto - All,face cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,61,91.78,4,99.96,1.50,0.0656,0.9182,0.71,8168.29
+SP | Phrase | Core,Phrase - Core,best face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,48,78.62,1,24.99,1.64,0.0208,3.1461,0.61,8246.91
+SP | Phrase | Core,Phrase - Core,hydrating facial cleanser,WASTE_UNPROFITABLE,NEGATIVE EXACT,48,77.39,4,99.96,1.61,0.0833,0.7742,0.60,8324.30
+SP | Auto | Discovery,Auto - All,b0ejjea7so,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,75,74.29,0,0.00,0.99,0.0000,,0.58,8398.59
+SP | Auto | Discovery,Auto - All,turmeric serum,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,58,73.33,0,0.00,1.26,0.0000,,0.57,8471.92
+SP | Auto | Discovery,Auto - All,organic turmeric pills,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,52,69.44,0,0.00,1.34,0.0000,,0.54,8541.36
+SP | Auto | Discovery,Auto - All,aloe vera shampoo,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,59,68.62,0,0.00,1.16,0.0000,,0.53,8609.98
+SP | Phrase | Core,Phrase - Core,cleanser for sensitive skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,49,68.09,3,74.97,1.39,0.0612,0.9082,0.53,8678.07
+SP | Auto | Discovery,Auto - All,vegan brightening face wash,WASTE_UNPROFITABLE,NEGATIVE EXACT,59,65.44,3,74.97,1.11,0.0508,0.8729,0.51,8743.51
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera shampoo,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,57,64.66,0,0.00,1.13,0.0000,,0.50,8808.17
+SP | Auto | Discovery,Auto - All,turmeric powder,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,56,63.34,0,0.00,1.13,0.0000,,0.49,8871.51
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric powder,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,58,62.67,0,0.00,1.08,0.0000,,0.49,8934.18
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric serum,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,47,58.74,0,0.00,1.25,0.0000,,0.46,8992.92
+SP | Auto | Discovery,Auto - All,dog shampoo natural,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,38,54.17,0,0.00,1.43,0.0000,,0.42,9047.09
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera gel for sunburn,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,39,52.02,0,0.00,1.33,0.0000,,0.40,9099.11
+SP | Auto | Discovery,Auto - All,turmeric recipe,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,41,50.97,0,0.00,1.24,0.0000,,0.40,9150.08
+SP | Auto | Discovery,Auto - All,pure aloe vera gel for sunburn,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,37,49.62,0,0.00,1.34,0.0000,,0.38,9199.70
+SP | Auto | Discovery,Auto - All,organic turmeric capsules,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,36,44.65,0,0.00,1.24,0.0000,,0.35,9244.35
+SP | Auto | Discovery,Auto - All,aloe vera gel,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,31,42.51,0,0.00,1.37,0.0000,,0.33,9286.86
+SP | Auto | Discovery,Auto - All,aloe vera after sun,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,29,41.12,0,0.00,1.42,0.0000,,0.32,9327.98
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera gel,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,30,40.42,0,0.00,1.35,0.0000,,0.31,9368.40
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric pills,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,29,38.68,0,0.00,1.33,0.0000,,0.30,9407.08
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric face wash 2 pack,WASTE_UNPROFITABLE,NEGATIVE EXACT,38,36.37,2,49.98,0.96,0.0526,0.7277,0.28,9443.45
+SP | Auto | Discovery,Auto - All,mens face wash oily skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,32,36.34,0,0.00,1.14,0.0000,,0.28,9479.79
+SP | Phrase | Core,Phrase - Core,ayurvedic salicylic acid facial wash sulfate free,WASTE_UNPROFITABLE,NEGATIVE EXACT,35,36.31,1,24.99,1.04,0.0286,1.4530,0.28,9516.10
+SP | Auto | Discovery,Auto - All,organic turmeric for dogs,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,30,36.27,0,0.00,1.21,0.0000,,0.28,9552.37
+SP | Auto | Discovery,Auto - All,conditioner aloe vera,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,26,35.45,0,0.00,1.36,0.0000,,0.27,9587.82
+SP | Auto | Discovery,Auto - All,curcumin capsules,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,26,35.38,0,0.00,1.36,0.0000,,0.27,9623.20
+SP | Auto | Discovery,Auto - All,moisturizer aloe vera,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,30,34.94,0,0.00,1.16,0.0000,,0.27,9658.14
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,moisturizer aloe vera,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,29,34.67,0,0.00,1.20,0.0000,,0.27,9692.81
+SP | Auto | Discovery,Auto - All,clean tea tree face wash for dark spots,WASTE_UNPROFITABLE,NEGATIVE EXACT,25,34.07,1,24.99,1.36,0.0400,1.3633,0.26,9726.88
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,conditioner aloe vera,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,24,33.92,0,0.00,1.41,0.0000,,0.26,9760.80
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric recipe,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,26,33.54,0,0.00,1.29,0.0000,,0.26,9794.34
+SP | Auto | Discovery,Auto - All,organic turmeric body wash,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,23,33.49,0,0.00,1.46,0.0000,,0.26,9827.83
+SP | Auto | Discovery,Auto - All,organic turmeric powder organic,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,28,33.12,0,0.00,1.18,0.0000,,0.26,9860.95
+SP | Auto | Discovery,Auto - All,pure aloe vera plant,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,28,33.03,0,0.00,1.18,0.0000,,0.26,9893.98
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric capsules,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,26,32.29,0,0.00,1.24,0.0000,,0.25,9926.27
+SP | Auto | Discovery,Auto - All,b0i471edh1,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,31,32.00,0,0.00,1.03,0.0000,,0.25,9958.27
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,dog shampoo natural,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,24,31.06,0,0.00,1.29,0.0000,,0.24,9989.33
+SP | Auto | Discovery,Auto - All,turmeric soap bar,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,27,29.99,0,0.00,1.11,0.0000,,0.23,10019.32
+SP | Auto | Discovery,Auto - All,organic turmeric gummies,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,29,29.96,0,0.00,1.03,0.0000,,0.23,10049.28
+SP | Phrase | Core,Phrase - Core,daily vitamin c face soap 2 pack,WASTE_UNPROFITABLE,NEGATIVE EXACT,24,29.71,1,24.99,1.24,0.0417,1.1889,0.23,10078.99
+SP | Auto | Discovery,Auto - All,aloe vera gel for sunburn,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,22,29.52,0,0.00,1.34,0.0000,,0.23,10108.51
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric capsules,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,28,28.98,0,0.00,1.04,0.0000,,0.22,10137.49
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera leaves,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,20,28.83,0,0.00,1.44,0.0000,,0.22,10166.32
+SP | Auto | Discovery,Auto - All,turmeric face wash for combination skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,23,28.71,1,24.99,1.25,0.0435,1.1489,0.22,10195.03
+SP | Auto | Discovery,Auto - All,turmeric capsules,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,27,28.49,0,0.00,1.06,0.0000,,0.22,10223.52
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric body wash,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,20,28.45,0,0.00,1.42,0.0000,,0.22,10251.97
+SP | Auto | Discovery,Auto - All,turmeric supplement,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,22,27.84,0,0.00,1.27,0.0000,,0.22,10279.81
+SP | Auto | Discovery,Auto - All,pure aloe vera soap bar,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,20,27.49,0,0.00,1.37,0.0000,,0.21,10307.30
+SP | Auto | Discovery,Auto - All,turmeric face wash for women,WASTE_UNPROFITABLE,NEGATIVE EXACT,24,27.38,1,24.99,1.14,0.0417,1.0956,0.21,10334.68
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera gel for hair,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,25,27.21,0,0.00,1.09,0.0000,,0.21,10361.89
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric supplement,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,20,26.55,0,0.00,1.33,0.0000,,0.21,10388.44
+SP | Auto | Discovery,Auto - All,turmeric powder organic,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,24,26.42,0,0.00,1.10,0.0000,,0.20,10414.86
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera plant,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,21,26.25,0,0.00,1.25,0.0000,,0.20,10441.11
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera capsules,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,21,25.81,0,0.00,1.23,0.0000,,0.20,10466.92
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric body wash,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,20,25.73,0,0.00,1.29,0.0000,,0.20,10492.65
+SP | Auto | Discovery,Auto - All,b0cv61x2g4,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,31,25.04,0,0.00,0.81,0.0000,,0.19,10517.69
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric for dogs,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,20,24.98,0,0.00,1.25,0.0000,,0.19,10542.67
+SP | Auto | Discovery,Auto - All,ayurvedic tea tree face cleanser for acne prone skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,26,24.89,1,24.99,0.96,0.0385,0.9960,0.19,10567.56
+SP | Product | Competitor ASINs,Product - Competitors,b0ejjea7so,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,26,24.82,0,0.00,0.95,0.0000,,0.19,10592.38
+SP | Auto | Discovery,Auto - All,b0ffho7w4i,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,25,24.22,0,0.00,0.97,0.0000,,0.19,10616.60
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera plant,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,19,24.16,0,0.00,1.27,0.0000,,0.19,10640.76
+SP | Auto | Discovery,Auto - All,organic turmeric powder,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,23,24.09,0,0.00,1.05,0.0000,,0.19,10664.85
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera leaves,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,23,24.01,0,0.00,1.04,0.0000,,0.19,10688.86
+SP | Auto | Discovery,Auto - All,botanical honey face cleanser unscented,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,19,23.95,0,0.00,1.26,0.0000,,0.19,10712.81
+SP | Auto | Discovery,Auto - All,aloe vera plant,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,19,23.89,0,0.00,1.26,0.0000,,0.19,10736.70
+SP | Auto | Discovery,Auto - All,organic turmeric supplement,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,24,23.68,0,0.00,0.99,0.0000,,0.18,10760.38
+SP | Auto | Discovery,Auto - All,turmeric curcumin with black pepper,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,18,23.46,0,0.00,1.30,0.0000,,0.18,10783.84
+SP | Product | Competitor ASINs,Product - Competitors,b005khtto2,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,25,23.41,0,0.00,0.94,0.0000,,0.18,10807.25
+SP | Auto | Discovery,Auto - All,turmeric supplement 1500mg,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,22,23.41,0,0.00,1.06,0.0000,,0.18,10830.66
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric face mask,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,22,23.33,0,0.00,1.06,0.0000,,0.18,10853.99
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric shampoo,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,16,23.02,0,0.00,1.44,0.0000,,0.18,10877.01
+SP | Auto | Discovery,Auto - All,plant based green tea face wash for dry skin,WASTE_UNPROFITABLE,NEGATIVE EXACT,20,22.63,1,24.99,1.13,0.0500,0.9056,0.18,10899.64
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,curcumin capsules,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,17,22.22,0,0.00,1.31,0.0000,,0.17,10921.86
+SP | Auto | Discovery,Auto - All,aloe vera capsules,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,18,22.04,0,0.00,1.22,0.0000,,0.17,10943.90
+SP | Auto | Discovery,Auto - All,b0z77r8txv,WASTE_UNPROFITABLE,NEGATIVE PRODUCT TARGET,24,21.79,1,24.99,0.91,0.0417,0.8719,0.17,10965.69
+SP | Auto | Discovery,Auto - All,shampoo aloe vera,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,22,21.77,0,0.00,0.99,0.0000,,0.17,10987.46
+SP | Auto | Discovery,Auto - All,daily chamomile cleanser travel size,WASTE_UNPROFITABLE,NEGATIVE EXACT,21,21.56,1,24.99,1.03,0.0476,0.8627,0.17,11009.02
+SP | Auto | Discovery,Auto - All,aloe vera leaves,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,15,21.53,0,0.00,1.44,0.0000,,0.17,11030.55
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,botanical salicylic acid facial cleanser for mature skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,15,21.32,0,0.00,1.42,0.0000,,0.17,11051.87
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera gel for sunburn,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,16,21.13,0,0.00,1.32,0.0000,,0.16,11073.00
+SP | Auto | Discovery,Auto - All,b0urqrroqu,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,19,20.62,0,0.00,1.09,0.0000,,0.16,11093.62
+SP | Auto | Discovery,Auto - All,aloe vera conditioner,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,18,20.58,0,0.00,1.14,0.0000,,0.16,11114.20
+SP | Auto | Discovery,Auto - All,b0uqm351b4,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,20,20.42,0,0.00,1.02,0.0000,,0.16,11134.62
+SP | Auto | Discovery,Auto - All,b0eivfzozy,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,27,20.34,0,0.00,0.75,0.0000,,0.16,11154.96
+SP | Auto | Discovery,Auto - All,b0qwoeh481,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,24,20.18,0,0.00,0.84,0.0000,,0.16,11175.14
+SP | Auto | Discovery,Auto - All,turmeric root,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,14,20.14,0,0.00,1.44,0.0000,,0.16,11195.28
+SP | Auto | Discovery,Auto - All,organic turmeric curcumin with black pepper,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,17,19.97,0,0.00,1.17,0.0000,,0.15,11215.25
+SP | Auto | Discovery,Auto - All,b0y03mplse,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,21,19.83,0,0.00,0.94,0.0000,,0.15,11235.08
+SP | Auto | Discovery,Auto - All,organic turmeric face mask,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,20,19.63,0,0.00,0.98,0.0000,,0.15,11254.71
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,prescription acne cleanser,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,15,19.29,0,0.00,1.29,0.0000,,0.15,11274.00
+SP | Auto | Discovery,Auto - All,prescription acne cleanser,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,16,19.06,0,0.00,1.19,0.0000,,0.15,11293.06
+SP | Auto | Discovery,Auto - All,hydrating aloe face cleanser sulfate free,WASTE_UNPROFITABLE,NEGATIVE EXACT,22,18.86,1,24.99,0.86,0.0455,0.7547,0.15,11311.92
+SP | Auto | Discovery,Auto - All,pure aloe vera gel organic pure,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,13,18.79,0,0.00,1.45,0.0000,,0.15,11330.71
+SP | Auto | Discovery,Auto - All,low ph niacinamide face cleanser for teens,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,15,18.73,0,0.00,1.25,0.0000,,0.15,11349.44
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,honey facial cleanser pump bottle,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,15,18.72,0,0.00,1.25,0.0000,,0.15,11368.16
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric soap bar,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,18,18.72,0,0.00,1.04,0.0000,,0.15,11386.88
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,mens face wash oily skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,16,18.68,0,0.00,1.17,0.0000,,0.14,11405.56
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera conditioner,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,16,18.59,0,0.00,1.16,0.0000,,0.14,11424.15
+SP | Product | Competitor ASINs,Product - Competitors,b0uqm351b4,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,17,18.59,0,0.00,1.09,0.0000,,0.14,11442.74
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric pills,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,17,18.37,0,0.00,1.08,0.0000,,0.14,11461.11
+SP | Auto | Discovery,Auto - All,aloe vera gel for hair,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,16,18.37,0,0.00,1.15,0.0000,,0.14,11479.48
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric and ginger capsules,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,14,18.21,0,0.00,1.30,0.0000,,0.14,11497.69
+SP | Auto | Discovery,Auto - All,turmeric body wash,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,14,18.12,0,0.00,1.29,0.0000,,0.14,11515.81
+SP | Auto | Discovery,Auto - All,turmeric diy face mask,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,18,18.07,0,0.00,1.00,0.0000,,0.14,11533.88
+SP | Auto | Discovery,Auto - All,b0p270o1lj,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,21,17.72,0,0.00,0.84,0.0000,,0.14,11551.60
+SP | Auto | Discovery,Auto - All,b0oqgsynjs,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,17,17.59,0,0.00,1.03,0.0000,,0.14,11569.19
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric extract,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,17,17.31,0,0.00,1.02,0.0000,,0.13,11586.50
+SP | Phrase | Core,Phrase - Core,clean rose facial wash for women,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,13,17.26,0,0.00,1.33,0.0000,,0.13,11603.76
+SP | Auto | Discovery,Auto - All,turmeric shampoo,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,12,17.19,0,0.00,1.43,0.0000,,0.13,11620.95
+SP | Auto | Discovery,Auto - All,b061glgjne,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,16,16.99,0,0.00,1.06,0.0000,,0.13,11637.94
+SP | Auto | Discovery,Auto - All,turmeric and ginger capsules,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,13,16.55,0,0.00,1.27,0.0000,,0.13,11654.49
+SP | Product | Competitor ASINs,Product - Competitors,b0ffho7w4i,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,17,16.36,0,0.00,0.96,0.0000,,0.13,11670.85
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric gummies,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,17,16.35,0,0.00,0.96,0.0000,,0.13,11687.20
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera gel organic pure,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,12,16.23,0,0.00,1.35,0.0000,,0.13,11703.43
+SP | Auto | Discovery,Auto - All,brightening aloe vera face wash sulfate free,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,14,16.22,0,0.00,1.16,0.0000,,0.13,11719.65
+SP | Auto | Discovery,Auto - All,b005sx0ye9,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,16,16.22,0,0.00,1.01,0.0000,,0.13,11735.87
+SP | Auto | Discovery,Auto - All,b0qexlhg9d,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,17,16.17,0,0.00,0.95,0.0000,,0.13,11752.04
+SP | Auto | Discovery,Auto - All,turmeric latte mix,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,15,16.14,0,0.00,1.08,0.0000,,0.13,11768.18
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric supplement,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,16,16.13,0,0.00,1.01,0.0000,,0.13,11784.31
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera soap bar,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,12,16.08,0,0.00,1.34,0.0000,,0.12,11800.39
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric curcumin with black pepper,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,13,15.84,0,0.00,1.22,0.0000,,0.12,11816.23
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera after sun,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,11,15.75,0,0.00,1.43,0.0000,,0.12,11831.98
+SP | Auto | Discovery,Auto - All,cruelty free charcoal cleansing foam for sensitive skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,15,15.70,0,0.00,1.05,0.0000,,0.12,11847.68
+SP | Auto | Discovery,Auto - All,pure aloe vera juice,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,11,15.65,0,0.00,1.42,0.0000,,0.12,11863.33
+SP | Auto | Discovery,Auto - All,b0md1j9o4b,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,19,15.63,0,0.00,0.82,0.0000,,0.12,11878.96
+SP | Auto | Discovery,Auto - All,b019legjx6,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,15,15.45,0,0.00,1.03,0.0000,,0.12,11894.41
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,daily vitamin c cleanser for mature skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,15,15.43,0,0.00,1.03,0.0000,,0.12,11909.84
+SP | Auto | Discovery,Auto - All,face wash for men acne,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,13,15.39,0,0.00,1.18,0.0000,,0.12,11925.23
+SP | Auto | Discovery,Auto - All,turmeric pills,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,15,15.34,0,0.00,1.02,0.0000,,0.12,11940.57
+SP | Auto | Discovery,Auto - All,b0blx1doaq,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,16,15.27,0,0.00,0.95,0.0000,,0.12,11955.84
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera for dogs,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,14,15.27,0,0.00,1.09,0.0000,,0.12,11971.11
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric curcumin with black pepper,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,12,15.19,0,0.00,1.27,0.0000,,0.12,11986.30
+SP | Auto | Discovery,Auto - All,b0r38jy8a2,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,15,14.89,0,0.00,0.99,0.0000,,0.12,12001.19
+SP | Auto | Discovery,Auto - All,turmeric for inflammation,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,11,14.86,0,0.00,1.35,0.0000,,0.12,12016.05
+SP | Product | Competitor ASINs,Product - Competitors,b0j9g6y73l,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,14,14.81,0,0.00,1.06,0.0000,,0.11,12030.86
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric powder,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,13,14.68,0,0.00,1.13,0.0000,,0.11,12045.54
+SP | Auto | Discovery,Auto - All,b0grh6jfu5,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,21,14.67,0,0.00,0.70,0.0000,,0.11,12060.21
+SP | Auto | Discovery,Auto - All,b0j9g6y73l,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,13,14.53,0,0.00,1.12,0.0000,,0.11,12074.74
+SP | Auto | Discovery,Auto - All,botanical chamomile cleanser for redness,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,11,14.50,0,0.00,1.32,0.0000,,0.11,12089.24
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera for dogs,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,10,14.48,0,0.00,1.45,0.0000,,0.11,12103.72
+SP | Auto | Discovery,Auto - All,brightening facial wash sulfate free,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,10,14.27,0,0.00,1.43,0.0000,,0.11,12117.99
+SP | Auto | Discovery,Auto - All,brightening honey facial wash unscented,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,12,14.26,0,0.00,1.19,0.0000,,0.11,12132.25
+SP | Auto | Discovery,Auto - All,b0qcrw8smu,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,13,14.21,0,0.00,1.09,0.0000,,0.11,12146.46
+SP | Auto | Discovery,Auto - All,gentle salicylic acid facial wash 2 pack,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,13,14.18,0,0.00,1.09,0.0000,,0.11,12160.64
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,clean aloe vera facial cleanser for dry skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,13,14.03,0,0.00,1.08,0.0000,,0.11,12174.67
+SP | Auto | Discovery,Auto - All,botanical green tea facial wash for sensitive skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,10,13.92,0,0.00,1.39,0.0000,,0.11,12188.59
+SP | Auto | Discovery,Auto - All,herbal charcoal face cleanser travel size,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,12,13.88,0,0.00,1.16,0.0000,,0.11,12202.47
+SP | Product | Competitor ASINs,Product - Competitors,b0cv61x2g4,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,17,13.84,0,0.00,0.81,0.0000,,0.11,12216.31
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric powder organic,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,12,13.83,0,0.00,1.15,0.0000,,0.11,12230.14
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic turmeric lotion,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,10,13.70,0,0.00,1.37,0.0000,,0.11,12243.84
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric lotion,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,12,13.55,0,0.00,1.13,0.0000,,0.11,12257.39
+SP | Auto | Discovery,Auto - All,b06mzzlhyd,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,14,13.48,0,0.00,0.96,0.0000,,0.10,12270.87
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera drink,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,14,13.45,0,0.00,0.96,0.0000,,0.10,12284.32
+SP | Auto | Discovery,Auto - All,aloe vera sunscreen,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,13,13.18,0,0.00,1.01,0.0000,,0.10,12297.50
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,pure aloe vera juice,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,9,13.17,0,0.00,1.46,0.0000,,0.10,12310.67
+SP | Product | Competitor ASINs,Product - Competitors,b0z7tdreqc,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,14,13.15,0,0.00,0.94,0.0000,,0.10,12323.82
+SP | Auto | Discovery,Auto - All,niacinamide facial wash for sensitive skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,13,13.10,0,0.00,1.01,0.0000,,0.10,12336.92
+SP | Auto | Discovery,Auto - All,pure aloe vera for dogs,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,13,13.10,0,0.00,1.01,0.0000,,0.10,12350.02
+SP | Phrase | Core,Phrase - Core,plant based chamomile face cleanser unscented,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,10,13.08,0,0.00,1.31,0.0000,,0.10,12363.10
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,mild chamomile face soap for teens,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,13,13.03,0,0.00,1.00,0.0000,,0.10,12376.13
+SP | Phrase | Core,Phrase - Core,cruelty free aloe vera facial wash for dark spots,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,11,12.97,0,0.00,1.18,0.0000,,0.10,12389.10
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric supplement 1500mg,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,13,12.96,0,0.00,1.00,0.0000,,0.10,12402.06
+SP | Auto | Discovery,Auto - All,plant based rose facial wash paraben free,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,10,12.93,0,0.00,1.29,0.0000,,0.10,12414.99
+SP | Auto | Discovery,Auto - All,turmeric lotion,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,12,12.87,0,0.00,1.07,0.0000,,0.10,12427.86
+SP | Auto | Discovery,Auto - All,pure aloe vera leaves,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,12,12.87,0,0.00,1.07,0.0000,,0.10,12440.73
+SP | Auto | Discovery,Auto - All,ginger supplement,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,13,12.84,0,0.00,0.99,0.0000,,0.10,12453.57
+SP | Product | Competitor ASINs,Product - Competitors,b0qwoeh481,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,15,12.84,0,0.00,0.86,0.0000,,0.10,12466.41
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,aloe vera sunscreen,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,12,12.70,0,0.00,1.06,0.0000,,0.10,12479.11
+SP | Auto | Discovery,Auto - All,face wash free sample,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,12,12.59,0,0.00,1.05,0.0000,,0.10,12491.70
+SP | Auto | Discovery,Auto - All,hydrating niacinamide face cleanser,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,10,12.54,0,0.00,1.25,0.0000,,0.10,12504.24
+SP | Auto | Discovery,Auto - All,b02w8emedq,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,13,12.54,0,0.00,0.96,0.0000,,0.10,12516.78
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric for dogs,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,12,12.53,0,0.00,1.04,0.0000,,0.10,12529.31
+SP | Auto | Discovery,Auto - All,aloe vera drink,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,13,12.37,0,0.00,0.95,0.0000,,0.10,12541.68
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,salicylic acid face cleanser for dark spots,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,11,12.36,0,0.00,1.12,0.0000,,0.10,12554.04
+SP | Product | Competitor ASINs,Product - Competitors,b061glgjne,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,11,12.30,0,0.00,1.12,0.0000,,0.10,12566.34
+SP | Auto | Discovery,Auto - All,ayurvedic honey facial wash for redness,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,12,12.27,0,0.00,1.02,0.0000,,0.10,12578.61
+SP | Phrase | Core,Phrase - Core,vegan chamomile face cleanser for oily skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,9,12.18,0,0.00,1.35,0.0000,,0.09,12590.79
+SP | Auto | Discovery,Auto - All,b057p1l0sb,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,13,12.15,0,0.00,0.93,0.0000,,0.09,12602.94
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,organic salicylic acid gel cleanser for dark spots,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,9,12.13,0,0.00,1.35,0.0000,,0.09,12615.07
+SP | Product | Competitor ASINs,Product - Competitors,b0oqgsynjs,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,11,11.96,0,0.00,1.09,0.0000,,0.09,12627.03
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric diy face mask,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,11,11.86,0,0.00,1.08,0.0000,,0.09,12638.89
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,low ph charcoal face soap for dry skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,10,11.86,0,0.00,1.19,0.0000,,0.09,12650.75
+SP | Auto | Discovery,Auto - All,pure aloe vera gel for hair,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,10,11.85,0,0.00,1.19,0.0000,,0.09,12662.60
+SP | Auto | Discovery,Auto - All,organic turmeric tea,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,10,11.79,0,0.00,1.18,0.0000,,0.09,12674.39
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,shampoo aloe vera,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,12,11.77,0,0.00,0.98,0.0000,,0.09,12686.16
+SP | Auto | Discovery,Auto - All,b0zzdz91ql,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,11,11.76,0,0.00,1.07,0.0000,,0.09,12697.92
+SP | Product | Competitor ASINs,Product - Competitors,b0clz9sopy,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,10,11.62,0,0.00,1.16,0.0000,,0.09,12709.54
+SP | Auto | Discovery,Auto - All,aloe vera supplement,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,10,11.57,0,0.00,1.16,0.0000,,0.09,12721.11
+SP | Auto | Discovery,Auto - All,b01m2r2foj,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,12,11.40,0,0.00,0.95,0.0000,,0.09,12732.51
+SP | Auto | Discovery,Auto - All,b0a9dsmxz4,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,13,11.39,0,0.00,0.88,0.0000,,0.09,12743.90
+SP | Auto | Discovery,Auto - All,natural charcoal face cleanser unscented,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,8,11.38,0,0.00,1.42,0.0000,,0.09,12755.28
+SP | Auto | Discovery,Auto - All,brightening turmeric face soap pump bottle,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,10,11.29,0,0.00,1.13,0.0000,,0.09,12766.57
+SP | Auto | Discovery,Auto - All,turmeric gummies,WASTE_ZERO_CONVERSION,NEGATIVE PHRASE,8,11.26,0,0.00,1.41,0.0000,,0.09,12777.83
+SP | Auto | Discovery,Auto - All,b0j9qt1xgk,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,12,11.23,0,0.00,0.94,0.0000,,0.09,12789.06
+SP | Auto | Discovery,Auto - All,chamomile face wash pump bottle,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,8,11.19,0,0.00,1.40,0.0000,,0.09,12800.25
+SP | Phrase | Core,Phrase - Core,gentle green tea cleansing foam sulfate free,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,8,11.13,0,0.00,1.39,0.0000,,0.09,12811.38
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,gentle cleanser for women,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,9,11.11,0,0.00,1.23,0.0000,,0.09,12822.49
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,gentle tea tree cleanser for oily skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,8,11.10,0,0.00,1.39,0.0000,,0.09,12833.59
+SP | Product | Competitor ASINs,Product - Competitors,b0blx1doaq,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,12,11.09,0,0.00,0.92,0.0000,,0.09,12844.68
+SP | Auto | Discovery,Auto - All,b0eko45olt,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,15,11.09,0,0.00,0.74,0.0000,,0.09,12855.77
+SP | Auto | Discovery,Auto - All,b0z7tdreqc,WASTE_ZERO_CONVERSION,NEGATIVE PRODUCT TARGET,12,11.06,0,0.00,0.92,0.0000,,0.09,12866.83
+SP | Phrase | Core,Phrase - Core,natural green tea facial cleanser for teens,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,9,11.06,0,0.00,1.23,0.0000,,0.09,12877.89
+SP | Broad | Ingredient & Values,Broad - Ingredient & Values,turmeric face mask,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,11,11.00,0,0.00,1.00,0.0000,,0.09,12888.89
+SP | Auto | Discovery,Auto - All,plant based tea tree gel cleanser for dry skin,WASTE_ZERO_CONVERSION,NEGATIVE EXACT,8,11.00,0,0.00,1.38,0.0000,,0.09,12899.89

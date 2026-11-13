@@ -1,0 +1,62 @@
+list,cluster,keyword,intent_tier,match_types,launch_bid_usd
+target,Core Generic,natural face wash,Mid,Broad|Phrase,1.10
+target,Core Generic,herbal face cleanser,Mid,Broad|Phrase,0.95
+target,Core Generic,gentle face wash,Mid,Phrase,1.25
+target,Core Generic,foaming facial cleanser,Mid,Phrase,1.15
+target,Ingredient,turmeric face wash,High,Exact|Phrase,1.30
+target,Ingredient,turmeric face cleanser,High,Exact|Phrase,1.30
+target,Ingredient,aloe vera face wash,High,Exact|Phrase,1.20
+target,Ingredient,turmeric and aloe vera cleanser,High,Exact,1.10
+target,Ingredient,green tea face wash,Mid,Phrase,0.90
+target,Values / Clean Beauty,vegan face wash,High,Exact|Phrase,1.20
+target,Values / Clean Beauty,cruelty free face cleanser,High,Exact|Phrase,1.15
+target,Values / Clean Beauty,alcohol free face wash,High,Exact,1.00
+target,Values / Clean Beauty,plant based facial cleanser,Mid,Phrase,0.95
+target,Values / Clean Beauty,clean beauty face wash,Mid,Broad,0.85
+target,Benefit,brightening face wash,Mid,Phrase,1.10
+target,Benefit,turmeric face wash for dark spots,High,Exact,1.25
+target,Benefit,face wash for glowing skin,Mid,Broad,0.90
+target,Benefit,face wash for uneven skin tone,Mid,Phrase,0.95
+target,Skin Type,face wash for sensitive skin,Mid,Phrase,1.35
+target,Skin Type,aloe vera face wash for dry skin,High,Exact,1.05
+target,Skin Type,gentle cleanser for oily skin,Mid,Phrase,1.00
+target,Skin Type,face wash for combination skin,Mid,Broad,0.90
+target,Long-Tail,vegan turmeric face cleanser,High,Exact,0.95
+target,Long-Tail,natural turmeric face wash for women,High,Exact,0.90
+target,Long-Tail,herbal face wash without alcohol,High,Exact,0.85
+target,Long-Tail,cruelty free turmeric cleanser sensitive skin,High,Exact,0.80
+target,Brand Defense,terrabloom,Brand,Exact,0.60
+target,Brand Defense,terrabloom turmeric cleanser,Brand,Exact,0.60
+negative,Pre-launch negative,supplement,,Negative Phrase,
+negative,Pre-launch negative,capsules,,Negative Phrase,
+negative,Pre-launch negative,pills,,Negative Phrase,
+negative,Pre-launch negative,gummies,,Negative Phrase,
+negative,Pre-launch negative,powder,,Negative Phrase,
+negative,Pre-launch negative,root,,Negative Phrase,
+negative,Pre-launch negative,extract,,Negative Phrase,
+negative,Pre-launch negative,curcumin,,Negative Phrase,
+negative,Pre-launch negative,joint,,Negative Phrase,
+negative,Pre-launch negative,inflammation,,Negative Phrase,
+negative,Pre-launch negative,latte,,Negative Phrase,
+negative,Pre-launch negative,aloe vera gel for hair,,Negative Phrase,
+negative,Pre-launch negative,hair,,Negative Phrase,
+negative,Pre-launch negative,shampoo,,Negative Phrase,
+negative,Pre-launch negative,conditioner,,Negative Phrase,
+negative,Pre-launch negative,live plant,,Negative Phrase,
+negative,Pre-launch negative,juice,,Negative Phrase,
+negative,Pre-launch negative,drink,,Negative Phrase,
+negative,Pre-launch negative,recipe,,Negative Phrase,
+negative,Pre-launch negative,diy,,Negative Phrase,
+negative,Pre-launch negative,dog,,Negative Phrase,
+negative,Pre-launch negative,pet,,Negative Phrase,
+negative,Pre-launch negative,soap bar,,Negative Phrase,
+negative,Pre-launch negative,body wash,,Negative Phrase,
+negative,Pre-launch negative,toner,,Negative Phrase,
+negative,Pre-launch negative,moisturizer,,Negative Phrase,
+negative,Pre-launch negative,sunscreen,,Negative Phrase,
+negative,Pre-launch negative,serum,,Negative Phrase,
+negative,Pre-launch negative,mask,,Negative Phrase,
+negative,Pre-launch negative,acne treatment,,Negative Phrase,
+negative,Pre-launch negative,acne medication,,Negative Phrase,
+negative,Pre-launch negative,prescription,,Negative Phrase,
+negative,Pre-launch negative,free sample,,Negative Phrase,
